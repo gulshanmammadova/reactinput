@@ -1,0 +1,24 @@
+input,textarea{
+    padding: 6px 8px;
+    display: block;
+width: 100%;
+}
+label{
+    display: block;
+    margin: 5px 0;
+}
+div{
+    margin: 2px auto;
+    width: 50%;
+
+}
+button{
+    width: 104%;
+    padding: 8px 52px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 22px;
+    margin: 10px auto;
+}
